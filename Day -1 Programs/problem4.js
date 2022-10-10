@@ -1,0 +1,18 @@
+let x= "ⓇⒺⓅⓄⓇⓉ ⒸⒶⓇⒹ";
+console.log(x);
+let name="Pankaj";
+let school_Name="sardar patel school";
+let grade="12th";
+let section="B";
+let roll_no="18";
+let maths="84";
+let hindi="72";
+let english="94";
+console.log(name);
+console.log(school_Name);
+console.log(grade);
+console.log(section);
+console.log(roll_no);
+console.log(maths);
+console.log(hindi);
+console.log(english);
